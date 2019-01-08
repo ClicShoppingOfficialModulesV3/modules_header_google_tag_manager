@@ -36,3 +36,15 @@ Implementation:
 - Copy the modules_header_google_tag_manager.json into ClicShopping/Work/Cache/Github (manual installation)
 
 marketplace link : https://www.clicshopping.org/forum/files/file/55-modules-header-google-tag-manager/ 
+
+All informations about the ClicShopping
+
+ Community : https://www.clicshopping.org
+
+ Software : https://github.com/ClicShopping
+
+ Official add on : https://github.com/ClicShoppingOfficialModulesV3
+
+ Community add on : https://github.com/ClicShoppingV3Community
+
+ trademark License info : https://www.clicshopping.org/forum/trademark/ 
